@@ -1,0 +1,39 @@
+[metadata]
+authour = "Skye"
+name = "thetasigma"
+
+[colors]
+foreground = "#FFE7FE"
+background = "#04040C"
+
+cursor_bg = "#B0A0EA"
+cursor_fg = "#04040C"
+cursor_border = "#B0A0EA"
+
+selection_fg = "#F9FFF9"
+selection_bg = "#4C146C"
+
+scrollbar_thumb = "#D7A0FE"
+
+split = "#2C144C"
+
+ansi = [
+  "#04040C",
+  "#FE81BE",
+  "#8ADCEF",
+  "#DDDDB0",
+  "#74B5FF",
+  "#D8B0FE",
+  "#88CCFF",
+  "#FFD7FE",
+]
+brights = [
+  "#4A495A",
+  "#FEA1BE",
+  "#7AFFEF",
+  "#FFEEB0",
+  "#98CEFF",
+  "#D9C0FE",
+  "#8ADCFF",
+  "#FFE7FE",
+]
