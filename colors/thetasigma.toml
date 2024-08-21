@@ -20,7 +20,7 @@ split = "#2C144C"
 ansi = [
   "#04040C",
   "#FE81BE",
-  "#8ADCEF",
+  "#8ADCFF",
   "#DDDDB0",
   "#74B5FF",
   "#D8B0FE",
@@ -30,7 +30,7 @@ ansi = [
 brights = [
   "#4A495A",
   "#FEA1BE",
-  "#7AFFEF",
+  "#8ADFFF",
   "#FFEEB0",
   "#98CEFF",
   "#D9C0FE",
