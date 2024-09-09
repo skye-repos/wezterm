@@ -18,10 +18,10 @@ scrollbar_thumb = "#D7A0FE"
 split = "#2C144C"
 
 ansi = [
-  "#04040C",
+  "#14041C",
   "#FE81BE",
   "#8ADCFF",
-  "#DDDDB0",
+  "#DD99B0",
   "#74B5FF",
   "#D8B0FE",
   "#88CCFF",
@@ -31,7 +31,7 @@ brights = [
   "#4A495A",
   "#FEA1BE",
   "#8ADFFF",
-  "#FFEEB0",
+  "#FFAAB0",
   "#98CEFF",
   "#D9C0FE",
   "#8ADCFF",
