@@ -4,10 +4,10 @@ name = "thetasigma"
 
 [colors]
 foreground = "#FFE7FE"
-background = "#100014"
+background = "#14041C"
 
 cursor_bg = "#B0A0EA"
-cursor_fg = "#100014"
+cursor_fg = "#14041C"
 cursor_border = "#B0A0EA"
 
 selection_fg = "#F9FFF9"
@@ -18,7 +18,7 @@ scrollbar_thumb = "#D7A0FE"
 split = "#2C144C"
 
 ansi = [
-  "#100014",
+  "#14041C",
   "#FE81BE",
   "#8ADCFF",
   "#FFB0EF",
