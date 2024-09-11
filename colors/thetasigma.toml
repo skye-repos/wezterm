@@ -3,7 +3,7 @@ authour = "Skye"
 name = "thetasigma"
 
 [colors]
-foreground = "#FFE7FE"
+foreground = "#FFD9FF"
 background = "#04040C"
 
 cursor_bg = "#B0A0EA"
@@ -20,20 +20,20 @@ split = "#2C144C"
 ansi = [
   "#04040C",
   "#FE81BE",
-  "#8ADCFF",
-  "#FFC0EF",
-  "#74B5FF",
-  "#D8B0FE",
-  "#88CCFF",
-  "#FFD7FE",
+  "#84DFCF",
+  "#FEA0DF",
+  "#84CEEF",
+  "#D790FE",
+  "#84BEFF",
+  "#FFD9FF",
 ]
 brights = [
   "#4A495A",
-  "#FEB1FE",
-  "#8ADFFF",
-  "#FFB0EF",
-  "#98CEFF",
-  "#D9C0FE",
-  "#8ADCFF",
-  "#FFE7FE",
+  "#FE81DE",
+  "#84EFCF",
+  "#FE90EF",
+  "#84CEFF",
+  "#C8A1FE",
+  "#84CEFF",
+  "#F9FFF9",
 ]
